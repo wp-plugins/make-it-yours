@@ -1,0 +1,18 @@
+.CodeMirror {
+	direction: ltr !IMPORTANT;
+	text-align: left;
+	background: #fefefe;
+	border: 1px solid #f2f2f2;
+}
+
+.color-selector {
+	position: absolute;
+}
+
+#color-refrence-bar {
+	background: #eee;
+	padding: 10px;
+	-webkit-border-radius: 0 0 7px 7px;
+	-moz-border-radius: 0 0 7px 7px;
+	border-radius: 0 0 7px 7px;
+}
