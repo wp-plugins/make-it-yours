@@ -1,0 +1,20 @@
+#newcontent {
+	font-family: Consolas,Monaco,monospace;
+	font-size: 12px;
+	width: 100%;
+	background: #F9F9F9;
+	outline: none;
+	padding: 5px;
+}
+
+.color-selector {
+	position: absolute;
+}
+
+#color-refrence-bar {
+	background: #eee;
+	padding: 10px;
+	-webkit-border-radius: 0 0 7px 7px;
+	-moz-border-radius: 0 0 7px 7px;
+	border-radius: 0 0 7px 7px;
+}
